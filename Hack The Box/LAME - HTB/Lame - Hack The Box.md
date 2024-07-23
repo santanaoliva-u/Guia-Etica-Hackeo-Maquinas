@@ -1,6 +1,5 @@
 # Documentación de Explotación de Vulnerabilidades en la Máquina Lame
-
-![[Pasted image 20240713114221.png]]
+![Escaneo Nmap](Pasted image 20240713114221.png)
 
 ![[Pasted image 20240713114126.png]]
 
