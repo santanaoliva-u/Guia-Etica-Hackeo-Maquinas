@@ -1,6 +1,5 @@
 # Documentación de Explotación de Vulnerabilidades en la Máquina Lame
-![[/Hack The Box/LAME - HTB/Pasted image 20240713002051.png]]
-
+![Exploit VSFTPD]([Hack The Box/LAME - HTB/Pasted image 20240713002051.png)
 
 ![[Pasted image 20240713114126.png]]
 ![[Pasted image 20240713114221.png]]
