@@ -1,5 +1,5 @@
 # Documentación de Explotación de Vulnerabilidades en la Máquina Lame
-![Explotar VSFTPD](Imagenpegada20240713002051.png)
+![Explotar VSFTPD]([Imagenpegada20240713002051.png](https://github.com/santanaoliva-u/Guia-Etica-Hackeo-Maquinas/blob/main/Hack%20The%20Box/LAME%20-%20HTB/Pasted%20image%2020240713002051.png?raw=true))
 
 ![[Pasted image 20240713114126.png]]
 ![[Pasted image 20240713114221.png]]
