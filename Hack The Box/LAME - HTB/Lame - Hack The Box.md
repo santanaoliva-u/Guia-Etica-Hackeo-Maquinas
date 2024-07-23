@@ -1,8 +1,8 @@
 # Documentación de Explotación de Vulnerabilidades en la Máquina Lame
 ![Explotar VSFTPD](https://github.com/santanaoliva-u/Guia-Etica-Hackeo-Maquinas/blob/main/Hack%20The%20Box/LAME%20-%20HTB/Pasted%20image%2020240713002051.png?raw=true)
 
-![[Pasted image 20240713114126.png]]
-![[Pasted image 20240713114221.png]]
+![[https://github.com/santanaoliva-u/Guia-Etica-Hackeo-Maquinas/blob/main/Hack%20The%20Box/LAME%20-%20HTB/img/Pasted%20image%2020240713114126.png?raw=true]]
+![[https://github.com/santanaoliva-u/Guia-Etica-Hackeo-Maquinas/blob/main/Hack%20The%20Box/LAME%20-%20HTB/img/Pasted%20image%2020240713114221.png?raw=true]]
 
 
 Ubicación de la Máquina: [Hack The Box - Lame](https://app.hackthebox.com/machines/Lame)
@@ -54,7 +54,7 @@ Se utiliza `nmap` para escanear los puertos abiertos y servicios en la máquina 
 ```shell
 nmap -sV -sC -T 4 10.10.10.3
 ```
-![[Pasted image 20240712005823.png]]
+![[https://github.com/santanaoliva-u/Guia-Etica-Hackeo-Maquinas/blob/main/Hack%20The%20Box/LAME%20-%20HTB/img/Pasted%20image%2020240712005823.png?raw=true]]
 
 **Explicación de los comandos:**
 - `-sV`: Detecta versiones de los servicios.
