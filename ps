@@ -1,0 +1,38 @@
+// Algoritmo para gestionar un sistema de calificaciones
+
+Algoritmo GestionarCalificaciones
+    // Declarar variables
+    Definir numEstudiantes, i, j Como Entero
+    Definir suma, promedio Como Real
+    Definir nombre Como Cadena
+    Definir calificacion Como Real
+    
+    // Solicitar el número de estudiantes
+    Escribir "Ingrese el número de estudiantes: "
+    Leer numEstudiantes
+    
+    // Procesar cada estudiante
+    Para i Desde 1 Hasta numEstudiantes Hacer
+        Escribir "Ingrese el nombre del estudiante ", i, ": "
+        Leer nombre
+        
+        suma <- 0  // Reiniciar suma para cada estudiante
+        
+        // Solicitar las 3 calificaciones
+        Para j Desde 1 Hasta 3 Hacer
+            Escribir "Ingrese la calificación ", j, " de ", nombre, ": "
+            Leer calificacion
+            suma <- suma + calificacion  // Sumar calificaciones
+        FinPara
+			
+        // Calcular el promedio
+        promedio <- suma / 3
+        
+        // Determinar si aprobó o no
+        Si promedio >= 60 Entonces
+            Escribir nombre, " ha aprobado con un promedio de: ", promedio
+        Sino
+            Escribir nombre, " ha reprobado con un promedio de: ", promedio
+        FinSi
+    FinPara
+FinAlgoritmo
